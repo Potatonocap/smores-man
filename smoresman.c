@@ -24,6 +24,7 @@ int main(void) {
     }
     else {
         printf("nope");
+        exit(0);
     }
 
     return 0;
